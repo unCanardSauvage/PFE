@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PFE_ARTICO", "PFE_ARTICO.csproj", "{18ED89B3-20DE-4DCA-8986-05615956C7E4}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup1", "..\Setup1\Setup1.vdproj", "{3B8E4831-407A-4080-9D9C-867F8155DFD3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{18ED89B3-20DE-4DCA-8986-05615956C7E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18ED89B3-20DE-4DCA-8986-05615956C7E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18ED89B3-20DE-4DCA-8986-05615956C7E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18ED89B3-20DE-4DCA-8986-05615956C7E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B8E4831-407A-4080-9D9C-867F8155DFD3}.Debug|Any CPU.ActiveCfg = Debug
+		{3B8E4831-407A-4080-9D9C-867F8155DFD3}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {03944DEC-7FAD-401C-8981-06D48D069E05}
+	EndGlobalSection
+EndGlobal
